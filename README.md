@@ -1,8 +1,17 @@
 # worldclinical_quide
 Dental medical e-learning website were dentists can learn about the dental field by using tutorials in this system.
-APPLICATION INCLUDES
+<h3>APPLICATION INCLUDES</h3>
 This system Contains PDF version tutorials about the different topics of dental all contents can be accesed at one time with one time payment.
-Technologies Used
+<h4>How to Use</h4>
+<ul>
+<li>Register in the Application</li>
+<li>Purchase the membership and get receipt</li>
+  <li>Upload Receipt and Register</li>
+  <li>Login With Credentials</li>
+  <li>Checkout Interested Pdf's</li>
+</ul>
+
+<h4>Technologies Used</h4>
 <ul>
 <li>1.HTML and CSS for Design</li>
 <li>2.JavaScript For Frontend Scripting</li>
